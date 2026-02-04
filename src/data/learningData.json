@@ -1,0 +1,312 @@
+[
+    {
+        "id": 1,
+        "title": "What is DNS?",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Understand how domain names are translated into IP addresses on the internet.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Simple explanation",
+                "url": "https://www.cloudflare.com/learning/dns/what-is-dns/"
+            },
+            {
+                "type": "video",
+                "label": "Short video",
+                "url": "https://www.youtube.com/watch?v=72snZctFFtA"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Understand the Fibonacci Sequence",
+        "category": "Math",
+        "level": "Beginner",
+        "description": "Learn what the Fibonacci sequence is and where it appears in nature and programming.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Beginner-friendly article",
+                "url": "https://www.mathsisfun.com/numbers/fibonacci-sequence.html"
+            },
+            {
+                "type": "video",
+                "label": "Visual explanation",
+                "url": "https://www.youtube.com/watch?v=SjSHVDfXHQ4"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "What is an API?",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Learn how APIs allow applications to communicate with each other.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Plain English guide",
+                "url": "https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "How the Internet Works in 10 Minutes",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "A high-level overview of how data travels across the internet.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Quick explanation",
+                "url": "https://www.youtube.com/watch?v=7_LPdttKXPc"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "What is a Black Hole?",
+        "category": "Science",
+        "level": "Beginner",
+        "description": "Learn what black holes are and why nothing can escape them.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Short documentary",
+                "url": "https://www.youtube.com/watch?v=e-P5IFTqB98"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Difference Between HTTP and HTTPS",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Understand why HTTPS is more secure and how encryption works.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Security basics",
+                "url": "https://www.cloudflare.com/learning/ssl/what-is-https/"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "What is Artificial Intelligence?",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Learn what AI is and how it’s used in everyday applications.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "AI basics",
+                "url": "https://www.ibm.com/think/topics/artificial-intelligence"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Binary Numbers Explained",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Understand how computers use 0s and 1s to store information.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Binary made easy",
+                "url": "https://www.youtube.com/watch?v=RrJXLdv1i74"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "What is Climate Change?",
+        "category": "Science",
+        "level": "Beginner",
+        "description": "Learn the basics of climate change and why it matters.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Simple overview",
+                "url": "https://climate.nasa.gov/what-is-climate-change/"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "What is UX Design?",
+        "category": "Creativity",
+        "level": "Beginner",
+        "description": "Understand what user experience design is and why it’s important.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "UX basics",
+                "url": "https://www.interaction-design.org/literature/topics/ux-design"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Learn What RAM Does",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Understand the role of RAM in your computer or phone.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Simple explanation",
+                "url": "https://www.youtube.com/watch?v=PvKjC6w3kzI"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "What is Open Source?",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Learn what open source software is and why developers love it.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Open source explained",
+                "url": "https://opensource.com/resources/what-open-source"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "How Password Managers Work",
+        "category": "Life Skills",
+        "level": "Beginner",
+        "description": "Understand how password managers keep your accounts secure.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Security basics",
+                "url": "https://www.consumerreports.org/digital-security/are-password-managers-safe/"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "What is Cloud Computing?",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Learn what the cloud is and how services like Google Drive work.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Cloud explained",
+                "url": "https://www.youtube.com/watch?v=M988_fsOSWo"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Basics of Color Theory",
+        "category": "Creativity",
+        "level": "Beginner",
+        "description": "Learn how colors work together and why it matters in design.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Color basics",
+                "url": "https://www.canva.com/colors/color-wheel/"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "What is Blockchain?",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Understand the core idea behind blockchain technology.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Blockchain simplified",
+                "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "How Search Engines Work",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Learn how Google finds and ranks web pages.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Search basics",
+                "url": "https://www.google.com/search/howsearchworks/"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "What is Probability?",
+        "category": "Math",
+        "level": "Beginner",
+        "description": "Learn how probability measures the chance of events happening.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Probability explained",
+                "url": "https://www.youtube.com/watch?v=uzkc-qNVoOk"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Digital Privacy Basics",
+        "category": "Life Skills",
+        "level": "Beginner",
+        "description": "Learn simple steps to protect your privacy online.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "article",
+                "label": "Privacy guide",
+                "url": "https://www.eff.org/issues/online-privacy"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "What is Git and Why It’s Useful",
+        "category": "Technology",
+        "level": "Beginner",
+        "description": "Understand what Git is and how developers use it to track code changes.",
+        "time": 15,
+        "resources": [
+            {
+                "type": "video",
+                "label": "Git basics",
+                "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc"
+            }
+        ]
+    }
+]
